@@ -23,13 +23,13 @@ nav{
 
 main
 {
-         padding: 1.5em;
+         padding: 1em;
          padding-top: 2em;
          padding-bottom: 1em;
 }
 .nav
 {
-         margin-left: 0;
+         margin-left: 0.01;
          padding-bottom: 0;
 }
 .nav li
@@ -44,7 +44,7 @@ main
          display: block;
          text-align: center;
          line-height: 1;
-	padding: 0.71343em 0.31634em;
+	padding: 0.51343em 0.31634em;
 	background-color: #6699ff;
 	color: #ffff66;
          border-bottom: 0;
@@ -58,7 +58,9 @@ a
 {
           list-style-type: square;
 }
-
+.index body
+{
+	background-image: url(
 .index h1
 {
           font-style: italic;
