@@ -1,20 +1,13 @@
+/*Css for all 3 pages*/
+{
+         height: 100%;
+         max-width: 58.0em;
+         margin: auto;
+}
 
-h1{
-         font-style: italic;
-         text-align: center;
-         font-family: "Arial", sans-serif;
-         color: red;
-         font-weight: bold;
-      }
-       h2{
-          font-style: italic;
-          color: red;
-      }
-        body{
-          background-image: url("http://bh-s2.azureedge.net/bh-uploads/2015/11/The-Hunger-Games.jpg");
-          
-      }
-        li{
-          list-style-type: square;
-          color: red;
-      }
+body
+{
+         padding: 1.00em;
+         padding-top: 0;
+         font-family: 
+
