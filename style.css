@@ -9,5 +9,55 @@ body
 {
          padding: 1.00em;
          padding-top: 0;
-         font-family: 
+         font-family: 'Arial', sans-serif;
+         font-size: 1em;
+}
+
+header
+{
+         padding: 0.01em;
+         font-family: 'Arial', sans-serif;
+         text-align: center;
+         letter-spacing: 0.1em;
+}
+
+nav{
+         width: 100%;
+         top: 0;
+         left: 0;
+}
+
+main
+{
+         padding: 1.5em;
+         padding-top: 2em;
+         padding-bottom: 1em;
+}
+
+footer
+{
+         font-size: 0.6em;
+         text-align: center;
+}
+
+.nav
+{
+         margin-left: 0;
+         padding-bottom: 0;
+}
+.nav li
+{
+         float: left;
+         width: 25%;
+         list-style-type: none;
+         padding-bottom: 0;
+}
+.nav a
+{
+         display: block;
+         text-align: center;
+         line-height: 1;
+         border-bottom: 0;
+}
+
 
