@@ -56,5 +56,16 @@ main
 {
           list-style-type: square;
 }
-.home
+
+.home h1{
+          font-style: italic;
+      }
+       .home body{
+          background-image: url(
+      }
+       
+       .home p{
+          font-style: italic;
+        }
+      
 
