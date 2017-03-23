@@ -50,7 +50,15 @@ main
          display: block;
          text-align: center;
          line-height: 1;
+	padding: 0.71343em 0.31634em;
+	background-color: #6699ff;
+	color: #ffff66;
          border-bottom: 0;
+}
+a
+{
+	color: #6699ff;
+	text-decoration: none;
 }
  li
 {
