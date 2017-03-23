@@ -61,7 +61,8 @@ main
           font-style: italic;
       }
        .home body{
-          background-image: url(
+          background-image: url("dolphin-kristian-sekulic-isp.jpg");
+          background-repeat: no-repeat;
       }
        
        .home p{
