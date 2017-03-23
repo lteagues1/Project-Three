@@ -65,7 +65,7 @@ a
 }
  .index body
 {
-          img srcset="default.jpg" alt="My default image"
+          background-image:="dolphin-kristian-sekulic-isp.jpg";
           background-repeat: no-repeat;
  }
        
