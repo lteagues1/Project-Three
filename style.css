@@ -60,7 +60,9 @@ a
 }
 .index body
 {
-	background-image: url(
+	background-image: url("dolphin-kristian-sekulic-isp.jpg");
+	background-repeat: no-repeat;
+}
 .index h1
 {
           font-style: italic;
@@ -99,11 +101,7 @@ a
           font-style: italic;
           color: red;
 }
-.Favorites body
-{
-         background-color: powderblue;
-          
-}
+
         
           
 
