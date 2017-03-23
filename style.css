@@ -57,16 +57,35 @@ main
           list-style-type: square;
 }
 
-.home h1{
+.home h1
+{
           font-style: italic;
-      }
-       .home body{
+}
+ .home body
+{
           background-image: url("dolphin-kristian-sekulic-isp.jpg");
           background-repeat: no-repeat;
-      }
+ }
        
-       .home p{
+ .home p
+{
           font-style: italic;
-        }
-      
+}
+.Resume h1
+{
+          font-style: italic;
+	 font-size: 20px;
+}
+ .Resume h2
+{
+	 font-size: 15px;
+}
+.Resume h3
+{
+	font-size: 12px;
+}
+ .Resume body
+{
+          background-color: #ffff90;
+}
 
