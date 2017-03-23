@@ -88,22 +88,24 @@ main
 {
           background-color: #ffff90;
 }
-h1{
+.Favorites h1
+{
          font-style: italic;
          text-align: center;
          font-family: "Arial", sans-serif;
          color: red;
          font-weight: bold;
       }
-       h2{
+.Favorites h2
+{
           font-style: italic;
           color: red;
-      }
-        body{
-          background-color: powderblue;
+}
+.Favorites body
+{
+         background-color: powderblue;
           
-      }
-        li{
-          list-style-type: square;
-          color: red;
+}
+        
+          
 
