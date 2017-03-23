@@ -52,9 +52,8 @@ main
          line-height: 1;
          border-bottom: 0;
 }
-ul li
+ li
 {
-         list-style: square;
+          list-style-type: square;
 }
-
 
