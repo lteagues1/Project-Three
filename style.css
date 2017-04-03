@@ -60,8 +60,10 @@ a
 }
 body.index
 {
-	background-image: url("/dolphin-kristian-sekulic-isp.jpg");
+	background: {
+		image: asset-url("dolphin-kristian-sekulic-isp.jpg");
 	background-repeat: no-repeat;
+}
 }
 .index h1
 {
