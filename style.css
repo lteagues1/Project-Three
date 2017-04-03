@@ -4,8 +4,9 @@
          max-width: 58.0px;
          margin: auto;
 }
-
-
+#header > h2{
+	font-family: italic;
+}
 
 header
 {
