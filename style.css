@@ -57,13 +57,13 @@ a
 {
           list-style-type: square;
 }
-body.Home
+body
 {
-	background: {
-		image: asset-url("dolphin-kristian-sekulic-isp.jpg");
+	background-image: url("dolphin-kristian-sekulic-isp.jpg");
 	background-repeat: no-repeat;
+	background-size: 640px 830px;
 }
-}
+
 .index h1
 {
           font-style: italic;
