@@ -4,9 +4,7 @@
          max-width: 58.0px;
          margin: auto;
 }
-#header > h2{
-	font-family: italic;
-}
+
 
 header
 {
@@ -105,6 +103,8 @@ body.Home
           color: #6699ff;
 }
 
-        
+.index h2{
+	font-family: italic;
+}       
           
 
