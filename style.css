@@ -1,7 +1,7 @@
 /*Css for all 3 pages*/
 {
          height: 100%;
-         max-width: 58.0em;
+         max-width: 58.0px;
          margin: auto;
 }
 
@@ -9,10 +9,10 @@
 
 header
 {
-         padding: 0.01em;
+         padding: 0.01px;
          font-family: 'Arial', sans-serif;
          text-align: center;
-         letter-spacing: 0.1em;
+         letter-spacing: 0.1px;
 }
 
 nav{
@@ -23,13 +23,13 @@ nav{
 
 main
 {
-         padding: 1em;
-         padding-top: 2em;
-         padding-bottom: 1em;
+         padding: 1px;
+         padding-top: 2px;
+         padding-bottom: 1px;
 }
 .nav
 {
-         margin-left: 0.01;
+         margin-left: 0.01px;
          padding-bottom: 0;
 }
 .nav li
@@ -44,7 +44,7 @@ main
          display: block;
          text-align: center;
          line-height: 1;
-	padding: 0.51343em 0.31634em;
+	padding: 0.51343em 0.31634px;
 	background-color: #6699ff;
 	color: #ffff66;
          border-bottom: 0;
