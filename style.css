@@ -1,4 +1,4 @@
-/*Css for all 3 pages*/
+#page
 {
          height: 100%;
          max-width: 58.0px;
@@ -14,7 +14,8 @@ header
          letter-spacing: 0.1px;
 }
 
-nav{
+nav
+{
          width: 100%;
          top: 0;
          left: 0;
