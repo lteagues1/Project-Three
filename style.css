@@ -64,6 +64,11 @@ body
 	background-repeat: no-repeat;
 	background-size: 2000px 1030px;
 }
+@media only screen and (max-width: 750px) {
+	body {
+		background-color: #6699ff;
+	}
+}
 
 .index h1
 {
