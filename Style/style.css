@@ -64,11 +64,9 @@ body
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
-@media only screen and (max-width: 750px) {
-	body {
-		background-color: #99ffff;
-	}
-}
+
+	
+
 
 .index h1
 {
