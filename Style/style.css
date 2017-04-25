@@ -69,7 +69,8 @@ footer a:link
 	color: purple;
 }
 @media only screen and (max-width: 750px) {
-body {
+body 
+{
 		background-color: #99ffff;
      }
 }
