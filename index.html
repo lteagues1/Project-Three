@@ -38,10 +38,29 @@ My major is Information Technology & Management<br>
    
 	    <p>I am an Intern for an organization called NSBE(National Society of Black Engineers)</p>
 	    
-	    <h3>My Google Map</h3>
-	    <div id="map"></div>
+	    
 	    
     </main>
+	 
+	 <h3>My Google Map</h3>
+	 <div id="map"></div>
+	 <script>
+	     function initMap() {
+		var uluru = {lat: -25.363, lng: 131.044};
+		var map = new google.maps.Map(document.getElementByID('map'), {
+		    zoom: 4,
+		    center: uluru
+		});
+		 var marker = new google.maps.Marker({
+		   position: uluru,
+		   map: map
+		 });
+	     }
+	 </script>
+	 <script async defer
+		 src="https://maps.googleapis.com/maps/api/js?=&callback=initMap">
+	 </script>
+		 
 	 
       <footer>
 	      <p>Posted by: Lara Teagues</p>
