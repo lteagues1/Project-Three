@@ -5,6 +5,8 @@
 	padding: 0;
 	outline: 0;
 	border: 0 none;
+	font-style: inherit;
+	font-weight: inherit;
 	vertical-align: baseline;
 }
 
@@ -69,9 +71,13 @@ a
 }
 body
 {
+	padding-top: 0;
 	background-image: url("https://raw.githubusercontent.com/lteagues1/Project-Two/master/Picture/Dolphinpic.jpg");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
 }
 footer a:link
 {
