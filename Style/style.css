@@ -101,7 +101,7 @@ body
 }
 #mypic{
 	float: center;
-	transform: rotate(20deg);
+	transform: rotate(90deg);
 }
 
 .Resume h1
