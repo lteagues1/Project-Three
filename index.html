@@ -42,19 +42,21 @@ My major is Information Technology & Management<br>
 	    
     </main>
 	 
-	 <h3>My Google Map</h3>
-	 <div id="map"></div>
-	 <script>
-	     function initMap() {
-		var uluru = {lat: -25.363, lng: 131.044};
-		var map = new google.maps.Map(document.getElementByID('initMap'), {
-		    zoom: 4,
-		    center: uluru
-		});
-		 var marker = new google.maps.Marker({
-		   position: uluru,
-		   map: map
-		 });
+	 
+	<h3>My Google Map</h3>
+    <div id="map"></div>
+    <script>
+      function initMap() {
+        var uluru = {lat: -25.363, lng: 131.044};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 4,
+          center: uluru
+        });
+        var marker = new google.maps.Marker({
+          position: uluru,
+          map: map
+        });
+      }
 	     }
 	 </script>
 	 <script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyBnB10orqxcRBq3AAVTYeZHFpgqrh6XD30&callback=initMap"
