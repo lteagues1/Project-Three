@@ -11,8 +11,10 @@
 }
 
 #wrap{
-         height: 10%;
-         max-width: 1px;
+         background-color: white;
+         max-width: 900px;
+	 height: 100%;
+	 padding: 1px;
          margin: auto;
 }
 
