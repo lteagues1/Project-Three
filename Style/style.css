@@ -99,6 +99,10 @@ body
 {
           font-style: italic;
 }
+#mypic{
+	float: center;
+	transform: rotate(10deg);
+}
 
 .Resume h1
 {
