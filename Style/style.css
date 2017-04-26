@@ -100,9 +100,8 @@ body
           font-style: italic;
 }
 #mypic{
-	width:400px;
-	height:400px;
-	transform: rotate(90deg);
+	
+	-webkit-transform: rotate(90deg);
 }
 
 .Resume h1
