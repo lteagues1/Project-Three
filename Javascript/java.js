@@ -14,6 +14,4 @@
         });
       }
     </script>
-    <script async defer
-		  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBnB10orqxcRBq3AAVTYeZHFpgqrh6XD30&callback=initMap">
-	 </script>
+    
