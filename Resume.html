@@ -35,7 +35,7 @@
 	<li>Communications Law and Ethics</li>
 	<li>Introduction to Software Development</li>
       </ul>
-
+<div id="map" style="width:200px;height:200px"> GES</div>
 
 
 	<h2>Work Experience</h2> 
@@ -64,6 +64,19 @@
 	       
     </main>
 	  </div>
+	  
+    <script>
+	    var map;
+        function initMap() {
+        var map = new google.maps.Map(document.getElementById, ('map'), {
+	 center: {lat: 42.789, lng: -87.235},
+		zoom: 4,
+          
+        });
+        
+    </script>
+	  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBnB10orqxcRBq3AAVTYeZHFpgqrh6XD30&callback=initMap"
+		  async defer></script>
 	<footer>
 	      <p>Posted by: Lara Teagues</p>
 	      <p>Contact Information: <a href="mailto:lteagues@hawk.iit.edu">
