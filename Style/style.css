@@ -135,6 +135,6 @@ body
 	font-family: italic;
 }  
 #map{
-	margin: 0;
-	padding-top: 1px;
+	margin: auto;
+	padding-top: 5em;
 }
