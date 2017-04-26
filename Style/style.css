@@ -102,6 +102,8 @@ body
 }
 #mypic{
 	float: center;
+	width: 10%;
+	height: 10%;
 }
 .Resume h1
 {
