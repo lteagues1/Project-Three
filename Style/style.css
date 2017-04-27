@@ -45,6 +45,7 @@ main
 }
 .nav li
 {
+	 display: inline;
          float: left;
          width: 50%;
          list-style-type: none;
