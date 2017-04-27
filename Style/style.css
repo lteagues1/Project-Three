@@ -46,7 +46,7 @@ main
 .nav li
 {
          float: left;
-         width: 10%;
+         width: 100%;
          list-style-type: none;
          padding-bottom: 0;
 }
@@ -54,10 +54,9 @@ main
 {
          display: block;
          text-align: center;
-         line-height: 1;
-	padding: 0.1546px 0.1785px;
-	background-color: #6699ff;
-	color: #ffff66;
+	 padding: 14px 16px;
+	 background-color: #6699ff;
+	 color: #ffff66;
          border-bottom: 0;
 }
 a
