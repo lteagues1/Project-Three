@@ -46,7 +46,7 @@ main
 .nav li
 {
          float: left;
-         width: 100%;
+         width: 80%;
          list-style-type: none;
          padding-bottom: 0;
 }
@@ -54,7 +54,7 @@ main
 {
          display: block;
          text-align: center;
-	 padding: 14px 16px;
+	 padding: 10px 12px;
 	 background-color: #6699ff;
 	 color: #ffff66;
          border-bottom: 0;
