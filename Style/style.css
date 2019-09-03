@@ -99,6 +99,14 @@ body
           font-style: italic;
 }
 
+.index center 
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .Resume h1
 {
           font-style: italic;
